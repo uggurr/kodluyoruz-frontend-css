@@ -1,0 +1,39 @@
+.logo {
+    
+    text-align: center;
+    margin: auto;
+    font-size: 40px;
+    
+}
+nav {
+    width: 95%;
+    float: none;
+}
+.navigation ul {
+    width: 95%;
+    text-align: center;
+}
+.navigation li {
+    text-align: center;
+    display: inline-block;
+    float: none;
+}
+article h2 {
+    color: red;
+}
+footer {
+    background-color: #a9a9a9;
+}
+footer p {
+    margin-left: auto;
+}
+.area {
+    text-align: center; 
+    width: 90%; 
+    margin: auto;
+}
+.book {
+    width: 37%; 
+    background-color: 	#4F7942; 
+    text-align: center;
+}
